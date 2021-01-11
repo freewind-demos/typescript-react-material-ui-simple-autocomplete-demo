@@ -1,9 +1,7 @@
-TypeScript React "material-ui" Styled AutoComplete Demo
+TypeScript React "material-ui" Simple AutoComplete Demo
 ===================================
 
-FIXME: 搞不定类型 
-
-https://material-ui.com/customization/components/#shorthand
+自定义AutoComplete，弄一个简单一点的出来： 紧凑，只能选一个，不显示clear图标，选中项为蓝色
 
 ```
 npm install
